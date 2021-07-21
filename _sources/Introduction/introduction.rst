@@ -298,7 +298,7 @@ a way that is appropriate for your intended use. For example, the CIA World
 Factbook data is licensed in the "public domain", which allows you to use the
 data any way one might want. You could even package the CIA data in an application for
 a phone and sell that application on the app store. If you search, you will see
-there is more than such app! Another data set called the Twitter US Airline
+there is more than one such app! Another data set called the Twitter US Airline
 Sentiment data set is used in several different data science textbooks, and is
 licensed using the Creative Commons
 `CC-BY-NC-SA <https://creativecommons.org/licenses/by-nc-sa/4.0/>`_ license.
